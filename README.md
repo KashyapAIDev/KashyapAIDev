@@ -1,60 +1,117 @@
-<h1 align="center">Hey 👋, I'm Kashyap</h1>
+<div align="center">
 
-<h3 align="center">🚀 Frontend Developer | 🎨 AI Creator | 💻 Portfolio Designer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F7FF,100:6A00FF&text=Kashyap%20AIDev&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn" />
 
----
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Kashyap
 
-## 🌟 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+🚀;AI+Creator+🤖;Portfolio+Designer+🎨;Creative+Coder+⚡;Future+Freelancer+🔥" />
 
-- 🔥 Passionate about modern web design
-- 🤖 Creating AI generated content & visuals
-- 🌐 Building stylish portfolio websites
-- 📚 Learning new technologies every day
-- 🎯 Goal: Become a successful freelancer
+</div>
 
 ---
 
-## 🚀 Skills
+# 🌟 About Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
-</p>
-
----
-
-## 💻 Current Focus
-
-- Modern Portfolio Websites
-- AI Image Generation
-- Frontend Development
-- Creative UI/UX Design
+```yaml
+Name: Kashyap Gohel
+Username: KashyapAIDev
+Focus: Frontend Development & AI
+Passion: Futuristic UI/UX Design
+Goal: Become a Successful Freelancer 🚀
+```
 
 ---
 
-## 🌐 Connect With Me
+# ⚡ Tech Stack
 
-<p align="left">
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github,vscode,figma,python" />
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+<div align="center">
+
+| 💻 Development     | 🤖 AI             | 🎨 Design             |
+| ------------------ | ----------------- | --------------------- |
+| Portfolio Websites | AI Image Creation | Modern UI/UX          |
+| Frontend Projects  | AI Content        | Creative Animations   |
+| Responsive Design  | AI Tools          | Dark Futuristic Style |
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
 <a href="https://github.com/KashyapAIDev">
-<img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/">
 <img src="https://img.shields.io/badge/Instagram-ff006e?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-</p>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+</a>
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
+# 📊 GitHub Stats
 
-> I love creating futuristic designs and AI-powered creative projects 🚀
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KashyapAIDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KashyapAIDev&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KashyapAIDev&show_icons=true&theme=tokyonight" />
-</p>
+# 🔥 Contribution Graph
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KashyapAIDev&theme=tokyonight" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KashyapAIDev&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🐍 Snake Eating Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=KashyapAIDev&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Create • Code • Inspire ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,100:6A00FF"/>
+
+</div>
